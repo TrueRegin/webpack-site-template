@@ -1,4 +1,4 @@
-$box-anim-time: 3s;
+$box-anim-time: 8s;
 
 /**
 // ! Animations / Transitons
@@ -238,8 +238,6 @@ body {
         transition: 250ms;
         transition-property: width height;
         &:hover {
-            width: 20vw;
-            height: 20vw;
         }
 
         // # Box Styling
